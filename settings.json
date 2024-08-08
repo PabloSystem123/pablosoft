@@ -1,0 +1,10 @@
+{
+    "liveServer.settings": {
+        "root": "./",
+        "port": 5500,
+        "wait": 100,
+        "mount": false,
+        "logLevel": 2,
+        "open": "index.html"
+    }
+}
